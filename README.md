@@ -1,1 +1,1 @@
-# CasinoNumberguessing
+ a Number Guessing Game. Player deposit an amount to start playing the  game. he guess a number between 1 to 10 and enter the betting amount. If he wins he  get 10 times of money he bets . If the bet is wrong number, he will lose his betting amount and Game continues if he  want to play.
